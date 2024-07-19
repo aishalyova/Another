@@ -1,0 +1,32 @@
+.news-list {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.news-list th, .news-list td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.news-list th {
+  background-color: #f0f0f0;
+}
+
+.btn {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: #4CAF50;
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: #ff0000;
+  color: #fff;
+}
